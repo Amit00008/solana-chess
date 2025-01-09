@@ -6,7 +6,7 @@
 
 <h2>🚀 live site</h2>
 
-[solanachess.com](solanachess.com)
+[solanachess.com](https://solanachess.com)
 
 <h2>🛠️ Installation Steps:</h2>
 *Rename .env.example to .env and fill your secret keys etc..
