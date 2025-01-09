@@ -4,7 +4,7 @@
 
 <p id="description">SolaanChess is a multiplayer chess game built on the Solana blockchain offering an exciting decentralized gaming experience. Players can connect compete and bet using Phantom Wallet authentication all while engaging in strategic chess matches. SolaanChess brings together the fun of chess with the power of blockchain technology.</p>
 
-<h2>🚀 Demo</h2>
+<h2>🚀 live site</h2>
 
 [solanachess.com](solanachess.com)
 
